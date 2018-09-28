@@ -7,6 +7,7 @@
 ## 参考网页
 
 - [Java 虚拟机面试题全面解析 - 作业部落 Cmd Markdown 编辑阅读器](https://www.zybuluo.com/Yano/note/321063)
+- [【javazejian】博客 - CSDN](https://me.csdn.net/javazejian)
 
 ## 参考书籍
 
