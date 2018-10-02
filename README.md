@@ -1,8 +1,8 @@
 # Learn JVM
-
+![](http://static.codeceo.com/images/2016/10/JVM-Architecture.png)
 ## 几个重要概念
 
-- [类加载器](./类加载器.md)
+- [类加载子系统](./类加载子系统.md)
 - 什么是对象系统？如何实现一个对象系统？
 
 ## 参考网页
